@@ -1,19 +1,13 @@
 ### Bonjour 👋
   
-Je suis développeur React depuis juin 2021 (début de formation janvier 2021).  
-Je suis à la recherche d'un premier emploi en région parisienne.
+Commencé en avril 2021 dans le cadre d'un Plan de Sauvegarde de l'Emploi, j'engrange au fil des jours de l'expérience en développement Web.
 
-# Mes compétences 
- 
-Concevoir des solutions MERN en adéquation avec les besoins et contraintes exprimés par le client  
-Déploiement :  
-<img src="https://github.com/frmi2018/Michaud-Franck/blob/main/logos/122963272-6811af80-d386-11eb-894b-0b32fff324bf.png" width="20" height=20> Netlify (front)  
-<img src="https://github.com/frmi2018/Michaud-Franck/blob/main/logos/122962030-4bc14300-d385-11eb-9e93-85680a25a6d6.png" width="20" height=20> Heroku (backend)  
+J'ai pu développer jusqu'à présent diverses compétences en suivant une formation bootcamp, des cours e-learning et en pratiquant quotidiennement.
 
 ## Contact
 [Mail](mailto:frmi2018@gmail.com)
 
-## Mon environnement de travail
+## Mes compétences
 • Visual Studio Code (Windows 11 / MacOS Big Sur)  
 • Postman  
 • MongoDBcompass  
@@ -27,9 +21,13 @@ Déploiement :
 <img src="https://github.com/frmi2018/Michaud-Franck/blob/main/logos/react.png" width="20" height="20"> React / Redux / NextJS / Axios   
 <img src="https://github.com/frmi2018/Michaud-Franck/blob/main/logos/122961755-fdac3f80-d384-11eb-9ab8-90f6862bedb8.png" width="20" height="20"> Node.js   
 <img src="https://github.com/frmi2018/Michaud-Franck/blob/main/logos/122961852-19174a80-d385-11eb-8e49-67b7afe7e605.png" height="20"> HTML5  
-<img src="https://github.com/frmi2018/Michaud-Franck/blob/main/logos/kisspng-cascading-style-sheets-logo-clip-art-css3-html-5b7617f67bd3d6.3499284915344660385072.jpg" width="20" height="20"> CSS3 / SASS / Bootstrap / Ant Design  
+<img src="https://github.com/frmi2018/Michaud-Franck/blob/main/logos/kisspng-cascading-style-sheets-logo-clip-art-css3-html-5b7617f67bd3d6.3499284915344660385072.jpg" width="20" height="20"> CSS3 / SASS  
 <img src="https://github.com/frmi2018/Michaud-Franck/blob/main/logos/122961185-719a1800-d384-11eb-906a-3854e856537b.png" width="20" height="20"> Javascript / Typescript  
 <img src="https://github.com/frmi2018/Michaud-Franck/blob/main/logos/123956638-3367ae80-d9ab-11eb-997d-e5b32b938702.png" width="20" height="20"> Framework Expo (mobile)  
+
+## Déploiement
+<img src="https://github.com/frmi2018/Michaud-Franck/blob/main/logos/122963272-6811af80-d386-11eb-894b-0b32fff324bf.png" width="20" height=20> Netlify (front)  
+<img src="https://github.com/frmi2018/Michaud-Franck/blob/main/logos/122962030-4bc14300-d385-11eb-9e93-85680a25a6d6.png" width="20" height=20> Heroku (backend)  
 
 ## Projets React
 <img src="https://github.com/frmi2018/Michaud-Franck/blob/main/logos/react.png"  width="100" height=auto>  
