@@ -11,32 +11,32 @@ J'ai pu développer jusqu'à présent diverses compétences en suivant une forma
 
 🙂 Je suis actuellement capable :
 
-• Réaliser un projet en partant d'une maquette
-• Développer et optimiser des applications ( React / Node.js )
-• Développer de nouvelles fonctionnalités / suivi des tâches ( Kanban )
-• Corriger des anomalies et bugs
+• Réaliser un projet en partant d'une maquette  
+• Développer et optimiser des applications ( React / Node.js )  
+• Développer de nouvelles fonctionnalités / suivi des tâches ( Kanban )  
+• Corriger des anomalies et bugs  
 
-• Développer avec les langages : HTML / CSS et Javascript
-• Utiliser un gestionnaire de code source : Git
-• Utiliser un gestionnaire de package : npm ou yarn
-• Créer des requêtes vers une API ou BDD ( Axios / Express / MongoDB )
-• Utiliser un Framework CSS ( bootstrap / ant design )
-• Faire du CI/CD sur des projets persos avec Github / Heroku / Netlify
-• Utiliser des outils de communication : Slack / Team / Discord / Zoom
-• Utiliser certains services AWS (authentification SES, stockage S3)
+• Développer avec les langages : HTML / CSS et Javascript  
+• Utiliser un gestionnaire de code source : Git  
+• Utiliser un gestionnaire de package : npm ou yarn  
+• Créer des requêtes vers une API ou BDD ( Axios / Express / MongoDB )  
+• Utiliser un Framework CSS ( bootstrap / ant design )  
+• Faire du CI/CD sur des projets persos avec Github / Heroku / Netlify  
+• Utiliser des outils de communication : Slack / Team / Discord / Zoom  
+• Utiliser certains services AWS (authentification SES, stockage S3)  
 
-• Chercher de façon autonome des solutions ( Google / Stack Overflow )
-• Effectuer de la veille technologique
-• Lire et comprendre des documentations en anglais
-• Suivre des cours e-learning pour apprendre de nouvelles technologies
+• Chercher de façon autonome des solutions ( Google / Stack Overflow )  
+• Effectuer de la veille technologique  
+• Lire et comprendre des documentations en anglais  
+• Suivre des cours e-learning pour apprendre de nouvelles technologies  
 
 🤔 J'ai des notions à approfondir ou à mettre en pratique :
 
-• Méthodologie AGILE / Framework Scrum
-• Trello / Jira / Confluence / XMind
-• TypeScript
-• Web Design, UI/UX, Figma
-• SEO / Google Analytics / RGPD
+• Méthodologie AGILE / Framework Scrum  
+• Trello / Jira / Confluence / XMind  
+• TypeScript  
+• Web Design, UI/UX, Figma  
+• SEO / Google Analytics / RGPD  
 
 ## Mes langages
 <img src="https://github.com/frmi2018/Michaud-Franck/blob/main/logos/122961978-3f3cea80-d385-11eb-843c-91cb4da109e4.png" width="20" height=20> MongoDB  
