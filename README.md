@@ -38,11 +38,6 @@ https://github.com/frmi2018/react/tree/main/front
 https://github.com/frmi2018/vuejs  
 
 ## Projets en ligne
-
-<img src="https://github.com/frmi2018/monkey-client/blob/main/monkey1.jpg" width="360" height=auto>➤ https://naughty-leakey-26ffb5.netlify.app/  
-
-<img src="https://github.com/frmi2018/portfolio/blob/main/public/portfolio.jpg" width="360" height=auto>➤ http://portfolio.michaudfranck.ovh/  
-
 <img src="https://github.com/frmi2018/react/blob/main/front/react-vitrine/vitrine.jpg" width="360" height=auto>➤ https://www.02.michaudfranck.ovh/  
 
 <img src="https://github.com/frmi2018/Michaud-Franck/blob/main/Capture22.PNG" width="360" height=auto>➤ https://vinted-frmi.netlify.app/  
