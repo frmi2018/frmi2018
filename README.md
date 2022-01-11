@@ -1,12 +1,21 @@
 # Bonjour 👋
 
-Commencé en avril 2021 dans le cadre d'un Plan de Sauvegarde de l'Emploi, j'engrange au fil des jours de l'expérience en développement Web.
+Les nouvelles technologies et l’univers du web ont toujours attirées ma curiosité.
 
-J'ai pu développer jusqu'à présent diverses compétences en suivant une formation bootcamp, des cours e-learning et en pratiquant quotidiennement.
+Simple Hobby pratiqué en parallèle de mon métier de technicien en base de données et de dessinateur industriel, j'ai profité d'un Plan de Sauvegarde de l'Emploi d'un an pour acquérir au fil des jours de l'expérience en développement front-end (React), back-end (Nodejs) et mobile.
+
+J'ai pu développer jusqu'à présent diverses compétences en suivant une formation bootcamp de 3 mois, des cours e-learning et en pratiquant quotidiennement.
+
+N'hésitez pas à me solliciter pour des projets ou si vous avez une opportunité qui me permettrait d'avoir une première expérience professionnelle dans l'un de ces métiers :
+
+💻 Intégrateur Web (HTML, CSS et JavaScript)  
+💻 Développeur Front-end (React)  
+💻 Développeur Back-end (Node.js)  
+💻 Développeur Full Stack MERN
 
 ## Contact
 
-[Mail](mailto:frmi2018@gmail.com)
+📧 [E-Mail](mailto:frmi2018@gmail.com)
 
 ## Mes compétences
 
@@ -51,7 +60,7 @@ J'ai pu développer jusqu'à présent diverses compétences en suivant une forma
 <img src="https://humancoders-formations.s3.amazonaws.com/uploads/course/logo/230/thumb_bigger_formation-typescript.png" width="20" height="20"> Typescript  
 <img src="assets/logos/expo.png" width="20" height="20"> Framework Expo (mobile)
 
-## Versioning / CI / CD
+## CI / CD
 
 <img src="assets/logos/git.png" width="20" height=20> Git  
 <img src="assets/logos/github.png" width="20" height=20> Github  
