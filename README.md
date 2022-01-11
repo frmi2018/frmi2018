@@ -39,7 +39,7 @@ J'ai pu développer jusqu'à présent diverses compétences en suivant une forma
 • Web Design, UI/UX, Figma  
 • SEO / Google Analytics / RGPD
 
-## Mes langages
+## Mes technologies
 
 <img src="assets/logos/mongodb.png" width="20" height=20> MongoDB  
 <img src="assets/logos/express.png" width="20" height="20"> Express  
@@ -51,12 +51,12 @@ J'ai pu développer jusqu'à présent diverses compétences en suivant une forma
 <img src="https://humancoders-formations.s3.amazonaws.com/uploads/course/logo/230/thumb_bigger_formation-typescript.png" width="20" height="20"> Typescript  
 <img src="assets/logos/expo.png" width="20" height="20"> Framework Expo (mobile)
 
-## CI / CD
+## Versioning / CI / CD
 
 <img src="assets/logos/git.png" width="20" height=20> Git  
 <img src="assets/logos/github.png" width="20" height=20> Github  
 <img src="assets/logos/netlify.png" width="20" height=20> Netlify (front)  
-<img src="assets/logos/heroku.png" width="20" height=20> Heroku (backend)
+<img src="assets/logos/heroku.png" width="20" height=20> Heroku (back)
 
 ## Projets React
 
@@ -72,9 +72,9 @@ J'ai pu développer jusqu'à présent diverses compétences en suivant une forma
 
 [<img src="assets/img/vinted.png" width="360" height=auto>](https://vinted-frmi.netlify.app/)
 
-[<img src="assets/img/gamepad.PNG" width="360" height=auto>](https://frmi-gamepad.netlify.app/)
+[<img src="https://raw.githubusercontent.com/frmi2018/gamepad/main/screen.png" width="360" height=auto>](https://frmi-gamepad.netlify.app/)
 
-[<img src="assets/img/marvel.png" width="360" height=auto>](https://frmi-marvel-api.netlify.app/)
+[<img src="https://raw.githubusercontent.com/frmi2018/frmi-marvel-api/main/src/assets/images/marvel.png" width="360" height=auto>](https://frmi-marvel-api.netlify.app/)
 
 ## Liens
 
