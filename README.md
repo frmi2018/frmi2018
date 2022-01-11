@@ -1,12 +1,21 @@
 # Bonjour 👋
 
-Commencé en avril 2021 dans le cadre d'un Plan de Sauvegarde de l'Emploi, j'engrange au fil des jours de l'expérience en développement Web.
+Les nouvelles technologies et l’univers du web ont toujours attirées ma curiosité.
 
-J'ai pu développer jusqu'à présent diverses compétences en suivant une formation bootcamp, des cours e-learning et en pratiquant quotidiennement.
+Simple Hobby pratiqué en parallèle de mon métier de technicien en base de données et de dessinateur industriel, j'ai profité d'un Plan de Sauvegarde de l'Emploi d'un an pour acquérir au fil des jours de l'expérience en développement front-end (React), back-end (Nodejs) et mobile.
+
+J'ai pu développer jusqu'à présent diverses compétences en suivant une formation bootcamp de 3 mois, des cours e-learning et en pratiquant quotidiennement.
+
+N'hésitez pas à me solliciter pour des projets ou si vous avez une opportunité qui me permettrait d'avoir une première expérience professionnelle dans l'un de ces métiers :
+
+💻 Intégrateur Web (HTML, CSS et JavaScript)  
+💻 Développeur Front-end (React)  
+💻 Développeur Back-end (Node.js)  
+💻 Développeur Full Stack MERN
 
 ## Contact
 
-[Mail](mailto:frmi2018@gmail.com)
+📧 [E-Mail](mailto:frmi2018@gmail.com)
 
 ## Mes compétences
 
@@ -39,7 +48,7 @@ J'ai pu développer jusqu'à présent diverses compétences en suivant une forma
 • Web Design, UI/UX, Figma  
 • SEO / Google Analytics / RGPD
 
-## Mes langages
+## Mes technologies
 
 <img src="assets/logos/mongodb.png" width="20" height=20> MongoDB  
 <img src="assets/logos/express.png" width="20" height="20"> Express  
@@ -47,13 +56,16 @@ J'ai pu développer jusqu'à présent diverses compétences en suivant une forma
 <img src="assets/logos/node.png" width="20" height="20"> Node.js  
 <img src="assets/logos/html.png" height="20"> HTML5  
 <img src="assets/logos/css.png" width="20" height="20"> CSS3 / SASS  
-<img src="assets/logos/js.png" width="20" height="20"> Javascript / Typescript  
+<img src="assets/logos/js.png" width="20" height="20"> Javascript  
+<img src="https://humancoders-formations.s3.amazonaws.com/uploads/course/logo/230/thumb_bigger_formation-typescript.png" width="20" height="20"> Typescript  
 <img src="assets/logos/expo.png" width="20" height="20"> Framework Expo (mobile)
 
-## Déploiement
+## CI / CD
 
+<img src="assets/logos/git.png" width="20" height=20> Git  
+<img src="assets/logos/github.png" width="20" height=20> Github  
 <img src="assets/logos/netlify.png" width="20" height=20> Netlify (front)  
-<img src="assets/logos/heroku.png" width="20" height=20> Heroku (backend)
+<img src="assets/logos/heroku.png" width="20" height=20> Heroku (back)
 
 ## Projets React
 
@@ -69,9 +81,9 @@ J'ai pu développer jusqu'à présent diverses compétences en suivant une forma
 
 [<img src="assets/img/vinted.png" width="360" height=auto>](https://vinted-frmi.netlify.app/)
 
-[<img src="assets/img/gamepad.PNG" width="360" height=auto>](https://frmi-gamepad.netlify.app/)
+[<img src="https://raw.githubusercontent.com/frmi2018/gamepad/main/screen.png" width="360" height=auto>](https://frmi-gamepad.netlify.app/)
 
-[<img src="assets/img/marvel.png" width="360" height=auto>](https://frmi-marvel-api.netlify.app/)
+[<img src="https://raw.githubusercontent.com/frmi2018/frmi-marvel-api/main/src/assets/images/marvel.png" width="360" height=auto>](https://frmi-marvel-api.netlify.app/)
 
 ## Liens
 
