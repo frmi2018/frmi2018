@@ -47,11 +47,14 @@ J'ai pu développer jusqu'à présent diverses compétences en suivant une forma
 <img src="assets/logos/node.png" width="20" height="20"> Node.js  
 <img src="assets/logos/html.png" height="20"> HTML5  
 <img src="assets/logos/css.png" width="20" height="20"> CSS3 / SASS  
-<img src="assets/logos/js.png" width="20" height="20"> Javascript / Typescript  
+<img src="assets/logos/js.png" width="20" height="20"> Javascript  
+<img src="https://humancoders-formations.s3.amazonaws.com/uploads/course/logo/230/thumb_bigger_formation-typescript.png" width="20" height="20"> Typescript  
 <img src="assets/logos/expo.png" width="20" height="20"> Framework Expo (mobile)
 
-## Déploiement
+## CI / CD
 
+<img src="assets/logos/git.png" width="20" height=20> Git  
+<img src="assets/logos/github.png" width="20" height=20> Github  
 <img src="assets/logos/netlify.png" width="20" height=20> Netlify (front)  
 <img src="assets/logos/heroku.png" width="20" height=20> Heroku (backend)
 
