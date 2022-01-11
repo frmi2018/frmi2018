@@ -69,7 +69,7 @@ N'hésitez pas à me solliciter pour des projets ou si vous avez une opportunit�
 
 ## Projets React
 
-[<img src="assets/logos/react.png"  width="100" height=auto>](https://github.com/frmi2018/react/tree/main/front)
+[<img src="assets/logos/react.png"  width="100" height=auto>](https://github.com/frmi2018/react)
 
 ## Projets Vues
 
