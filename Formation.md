@@ -1,8 +1,6 @@
-My CODEPEN (https://codepen.io/your-work)  
-My links (http://frmi.free.fr/favoris.html)  
-FAQ (https://stackoverflow.com/)
+# Mon programme personnel de formation basé sur ceux vendus à un prix prohibitif :
 
-## Mon programme de formation :
+## E-learning et bootcamp
 
 [Apprendre à apprendre](https://openclassrooms.com/fr/courses/4312781-apprenez-a-apprendre)  
 [Découvrez les métiers de développeur](https://openclassrooms.com/fr/courses/6817086-decouvrez-les-metiers-de-developpeur)  
@@ -19,12 +17,18 @@ FAQ (https://stackoverflow.com/)
 [Un projet utilisant le framework CSS Material UI](https://www.youtube.com/playlist?list=PLjC4UKOOcfDQtvkTBfjqeWP8EJKi_WaUn)  
 [Google Analytics](https://www.youtube.com/watch?v=V-zkhZqcNp8)  
 [Storybook](https://www.youtube.com/watch?v=CLwX9EWlWJM)  
-[SCRUM / méthodes agiles](https://www.udemy.com/course/scrum-et-le-best-of-des-methodes-agiles-de-gestion-de-projet/)
+[SCRUM / méthodes agiles](https://www.udemy.com/course/scrum-et-le-best-of-des-methodes-agiles-de-gestion-de-projet/)  
 
-## Veille technologique :
+et pratique en réalisant des projets personnels ou sous forme de tutoriel.
+
+## Ma veille technologique ( à compléter ) :
 
 https://www.youtube.com/channel/UC7BNBNLwMF8GjgXLDP8PWQw  
 https://www.youtube.com/c/Teachersdunet
+
+My links (http://frmi.free.fr/favoris.html)  
+My CODEPEN (https://codepen.io/your-work)  
+FAQ (https://stackoverflow.com/)
 
 ## Autres :
 
