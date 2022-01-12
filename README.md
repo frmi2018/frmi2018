@@ -57,8 +57,14 @@ N'hésitez pas à me solliciter pour des projets ou si vous avez une opportunit�
 <img src="assets/logos/html.png" height="20"> HTML5  
 <img src="assets/logos/css.png" width="20" height="20"> CSS3 / SASS  
 <img src="assets/logos/js.png" width="20" height="20"> Javascript  
+  
 <img src="https://humancoders-formations.s3.amazonaws.com/uploads/course/logo/230/thumb_bigger_formation-typescript.png" width="20" height="20"> Typescript  
-<img src="assets/logos/expo.png" width="20" height="20"> Framework Expo (mobile)
+<img src="assets/logos/expo.png" width="20" height="20"> Framework Expo (mobile)  
+<img src="https://pbs.twimg.com/profile_images/821713465245102080/mMtKIMax_400x400.jpg" width="20" height="20"> Jest [infos](https://jestjs.io/docs/getting-started)  
+<img src="https://raw.githubusercontent.com/testing-library/react-testing-library/main/other/goat.png" width="20" height="20"> React Testing Library [infos](https://testing-library.com/docs/react-testing-library/intro/)  
+<img src="https://avatars.githubusercontent.com/u/17545810?s=88&v=4" width="auto" height="20"> Nock [infos](https://github.com/nock/nock)  
+<img src="https://www.cypress.io/static/33498b5f95008093f5f94467c61d20ab/59c46/cypress-logo.webp" width="auto" height="20"> Cypress [infos](https://www.cypress.io/)
+
 
 ## CI / CD
 
