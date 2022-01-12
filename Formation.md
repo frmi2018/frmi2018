@@ -1,6 +1,6 @@
-# Mon programme personnel de formation basé sur ceux vendus à un prix prohibitif :
+# Mon programme personnel de formation
 
-## E-learning et bootcamp
+## Les cours
 
 [Apprendre à apprendre](https://openclassrooms.com/fr/courses/4312781-apprenez-a-apprendre)  
 [Découvrez les métiers de développeur](https://openclassrooms.com/fr/courses/6817086-decouvrez-les-metiers-de-developpeur)  
@@ -19,18 +19,21 @@
 [Storybook](https://www.youtube.com/watch?v=CLwX9EWlWJM)  
 [SCRUM / méthodes agiles](https://www.udemy.com/course/scrum-et-le-best-of-des-methodes-agiles-de-gestion-de-projet/)  
 
-et pratique en réalisant des projets personnels ou sous forme de tutoriel.
+## La pratique
+
+[<img src="https://github.com/frmi2018/integration/blob/main/hcj.png" width="100" height=auto>](https://github.com/frmi2018/integration)
+[<img src="https://github.com/frmi2018/frmi2018/blob/main/assets/logos/react.png" width="100" height=auto>](https://github.com/frmi2018/react)
 
 ## Ma veille technologique ( à compléter ) :
 
 https://www.youtube.com/channel/UC7BNBNLwMF8GjgXLDP8PWQw  
 https://www.youtube.com/c/Teachersdunet
 
-My links (http://frmi.free.fr/favoris.html)  
-My CODEPEN (https://codepen.io/your-work)  
-FAQ (https://stackoverflow.com/)
+Mes liens (http://frmi.free.fr/favoris.html)  
+Mon CODEPEN (https://codepen.io/your-work)  
+Un problème ? FAQ (https://stackoverflow.com/)
 
 ## Autres :
 
-2020 - C# & Unity 3D - [Tutoriel](https://play.unity.com/mg/2d/myfirstgame-18463)  
-2002 - VBScript - Adaptation des flippers Big Brave & Big indian sous [Visual Pinball](https://en.wikipedia.org/wiki/Visual_Pinball)
+2020 - Quelques essais avec C# & Unity - [Tutoriel](https://play.unity.com/mg/2d/myfirstgame-18463)  
+2002 - Un peu de VBScript lors de l'adaptation des flippers Big Brave & Big indian sous [Visual Pinball](https://en.wikipedia.org/wiki/Visual_Pinball)
