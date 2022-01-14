@@ -17,9 +17,19 @@ N'hésitez pas à me solliciter pour des projets ou si vous avez une opportunit�
 
 📧 [E-Mail](mailto:frmi2018@gmail.com)
 
+## Mes technologies
+
+<img src="assets/logos/mongodb.png" width="20" height=20> MongoDB  
+<img src="assets/logos/express.png" width="20" height="20"> Express  
+<img src="assets/logos/react.png" width="20" height="20"> React  
+<img src="assets/logos/node.png" width="20" height="20"> Node.js  
+<img src="assets/logos/html.png" height="20"> HTML5  
+<img src="assets/logos/css.png" width="20" height="20"> CSS3  
+<img src="assets/logos/js.png" width="20" height="20"> Javascript  
+
 ## Mes compétences
 
-🙂 Je suis actuellement capable :
+🙂 Je suis actuellement capable
 
 • Réaliser un projet en partant d'une maquette  
 • Développer et optimiser des applications ( React / Node.js )  
@@ -40,31 +50,23 @@ N'hésitez pas à me solliciter pour des projets ou si vous avez une opportunit�
 • Lire et comprendre des documentations en anglais  
 • Suivre des cours e-learning pour apprendre de nouvelles technologies
 
-🤔 J'ai des notions à approfondir ou à mettre en pratique :
+🤔 J'ai des notions à approfondir ou à mettre en pratique  
 
 • Méthodologie AGILE / Framework Scrum  
 • Trello / Jira / Confluence / XMind  
-• TypeScript  
+• <img src="https://humancoders-formations.s3.amazonaws.com/uploads/course/logo/230/thumb_bigger_formation-typescript.png" width="20" height="20"> TypeScript  
 • Web Design, UI/UX, Figma  
-• SEO / Google Analytics / RGPD
+• SEO / Google Analytics / RGPD  
+• <img src="assets/logos/expo.png" width="20" height="20"> Framework Expo (mobile)
 
-## Mes technologies
+😅 Il me reste beaucoup à apprendre...  
 
-<img src="assets/logos/mongodb.png" width="20" height=20> MongoDB  
-<img src="assets/logos/express.png" width="20" height="20"> Express  
-<img src="assets/logos/react.png" width="20" height="20"> React / Redux / NextJS / Axios  
-<img src="assets/logos/node.png" width="20" height="20"> Node.js  
-<img src="assets/logos/html.png" height="20"> HTML5  
-<img src="assets/logos/css.png" width="20" height="20"> CSS3 / SASS  
-<img src="assets/logos/js.png" width="20" height="20"> Javascript  
-  
-<img src="https://humancoders-formations.s3.amazonaws.com/uploads/course/logo/230/thumb_bigger_formation-typescript.png" width="20" height="20"> Typescript  
-<img src="assets/logos/expo.png" width="20" height="20"> Framework Expo (mobile)  
 <img src="https://pbs.twimg.com/profile_images/821713465245102080/mMtKIMax_400x400.jpg" width="20" height="20"> Jest [infos](https://jestjs.io/docs/getting-started)  
 <img src="https://raw.githubusercontent.com/testing-library/react-testing-library/main/other/goat.png" width="20" height="20"> React Testing Library [infos](https://testing-library.com/docs/react-testing-library/intro/)  
+<img src="https://raw.githubusercontent.com/jsdom/jsdom/master/logo.svg" width="auto" height="20"> jsdom [infos](https://github.com/jsdom/jsdom)  
+<img src="https://www.cypress.io/static/33498b5f95008093f5f94467c61d20ab/59c46/cypress-logo.webp" width="auto" height="20"> Cypress [infos](https://www.cypress.io/)  
 <img src="https://avatars.githubusercontent.com/u/17545810?s=88&v=4" width="auto" height="20"> Nock [infos](https://github.com/nock/nock)  
-<img src="https://www.cypress.io/static/33498b5f95008093f5f94467c61d20ab/59c46/cypress-logo.webp" width="auto" height="20"> Cypress [infos](https://www.cypress.io/)
-
+<img src="https://avatars.githubusercontent.com/u/64637271?s=200&v=4" width="auto" height="20"> MSW [infos](https://mswjs.io/)
 
 ## CI / CD
 
