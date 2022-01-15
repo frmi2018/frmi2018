@@ -57,9 +57,14 @@ N'hésitez pas à me solliciter pour des projets ou si vous avez une opportunit�
 • <img src="https://humancoders-formations.s3.amazonaws.com/uploads/course/logo/230/thumb_bigger_formation-typescript.png" width="20" height="20"> TypeScript  
 • Web Design, UI/UX, Figma  
 • SEO / Google Analytics / RGPD  
-• <img src="assets/logos/expo.png" width="20" height="20"> Framework Expo (mobile)
 
-😅 Il me reste beaucoup à apprendre...  
+😉 J'ai testé :
+
+• <img src="assets/logos/expo.png" width="20" height="20"> Framework Expo (mobile)  
+• VuesJS  
+• Wordpress
+
+😅 Il me reste beaucoup à apprendre notaement...  
 
 <img src="https://pbs.twimg.com/profile_images/821713465245102080/mMtKIMax_400x400.jpg" width="20" height="20"> Jest [infos](https://jestjs.io/docs/getting-started)  
 <img src="https://raw.githubusercontent.com/testing-library/react-testing-library/main/other/goat.png" width="20" height="20"> React Testing Library [infos](https://testing-library.com/docs/react-testing-library/intro/)  
