@@ -64,13 +64,13 @@ N'hésitez pas à me solliciter pour des projets ou si vous avez une opportunit�
 • VuesJS  
 • Wordpress
 
-😅 Il me reste beaucoup à apprendre notaement...  
+😅 Je souhaite découvrir prochainement...  
 
 <img src="https://pbs.twimg.com/profile_images/821713465245102080/mMtKIMax_400x400.jpg" width="20" height="20"> Jest [infos](https://jestjs.io/docs/getting-started)  
 <img src="https://raw.githubusercontent.com/testing-library/react-testing-library/main/other/goat.png" width="20" height="20"> React Testing Library [infos](https://testing-library.com/docs/react-testing-library/intro/)  
 <img src="https://raw.githubusercontent.com/jsdom/jsdom/master/logo.svg" width="auto" height="20"> jsdom [infos](https://github.com/jsdom/jsdom)  
-<img src="https://www.cypress.io/static/33498b5f95008093f5f94467c61d20ab/59c46/cypress-logo.webp" width="auto" height="20"> Cypress [infos](https://www.cypress.io/)  
-<img src="https://avatars.githubusercontent.com/u/17545810?s=88&v=4" width="auto" height="20"> Nock [infos](https://github.com/nock/nock)  
+<img src="https://www.cypress.io/static/33498b5f95008093f5f94467c61d20ab/59c46/cypress-logo.webp" width="auto" height="20"> [infos](https://www.cypress.io/)  
+<img src="https://avatars.githubusercontent.com/u/17545810?s=88&v=4" width="auto" height="20"> [infos](https://github.com/nock/nock)  
 <img src="https://avatars.githubusercontent.com/u/64637271?s=200&v=4" width="auto" height="20"> MSW [infos](https://mswjs.io/)
 
 ## CI / CD
