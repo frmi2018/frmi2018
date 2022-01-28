@@ -26,6 +26,10 @@ N'hésitez pas à me solliciter pour des projets ou si vous avez une opportunit�
 <img src="assets/logos/html.png" height="20"> HTML5  
 <img src="assets/logos/css.png" width="20" height="20"> CSS3  
 <img src="assets/logos/js.png" width="20" height="20"> Javascript  
+<img src="assets/logos/git.png" width="20" height=20> Git  
+<img src="assets/logos/github.png" width="20" height=20> Github  
+<img src="assets/logos/netlify.png" width="20" height=20> Déploiement Netlify (front)  
+<img src="assets/logos/heroku.png" width="20" height=20> Déploiement Heroku (back)
 
 ## Mes compétences
 
@@ -40,8 +44,7 @@ N'hésitez pas à me solliciter pour des projets ou si vous avez une opportunit�
 • Utiliser un gestionnaire de code source : Git  
 • Utiliser un gestionnaire de package : npm ou yarn  
 • Créer des requêtes vers une API ou BDD ( Axios / Express / MongoDB )  
-• Utiliser un Framework CSS ( bootstrap / ant design )  
-• Faire du CI/CD sur des projets persos avec Github / Heroku / Netlify  
+• Utiliser un Framework CSS ( bootstrap / ant design )    
 • Utiliser des outils de communication : Slack / Team / Discord / Zoom  
 • Utiliser certains services AWS (authentification SES, stockage S3)
 
@@ -54,17 +57,17 @@ N'hésitez pas à me solliciter pour des projets ou si vous avez une opportunit�
 
 • Méthodologie AGILE / Framework Scrum  
 • Trello / Jira / Confluence / XMind  
-• <img src="https://humancoders-formations.s3.amazonaws.com/uploads/course/logo/230/thumb_bigger_formation-typescript.png" width="20" height="20"> TypeScript  
+• TypeScript  
 • Web Design, UI/UX, Figma  
 • SEO / Google Analytics / RGPD  
 
 😉 J'ai testé :
 
-• <img src="assets/logos/expo.png" width="20" height="20"> Framework Expo (mobile)  
+• Framework Expo (mobile)  
 • VuesJS  
 • Wordpress
 
-😅 Je souhaite découvrir prochainement...  
+😅 To-do-list :  
 
 <img src="https://pbs.twimg.com/profile_images/821713465245102080/mMtKIMax_400x400.jpg" width="20" height="20"> Jest [infos](https://jestjs.io/docs/getting-started)  
 <img src="https://raw.githubusercontent.com/testing-library/react-testing-library/main/other/goat.png" width="20" height="20"> React Testing Library [infos](https://testing-library.com/docs/react-testing-library/intro/)  
@@ -72,13 +75,6 @@ N'hésitez pas à me solliciter pour des projets ou si vous avez une opportunit�
 <img src="https://www.cypress.io/static/33498b5f95008093f5f94467c61d20ab/59c46/cypress-logo.webp" width="auto" height="20"> [infos](https://www.cypress.io/)  
 <img src="https://avatars.githubusercontent.com/u/17545810?s=88&v=4" width="auto" height="20"> [infos](https://github.com/nock/nock)  
 <img src="https://avatars.githubusercontent.com/u/64637271?s=200&v=4" width="auto" height="20"> MSW [infos](https://mswjs.io/)
-
-## CI / CD
-
-<img src="assets/logos/git.png" width="20" height=20> Git  
-<img src="assets/logos/github.png" width="20" height=20> Github  
-<img src="assets/logos/netlify.png" width="20" height=20> Netlify (front)  
-<img src="assets/logos/heroku.png" width="20" height=20> Heroku (back)
 
 ## Projets React
 
@@ -101,8 +97,8 @@ N'hésitez pas à me solliciter pour des projets ou si vous avez une opportunit�
 ## Liens
 
 [LinkedIn](https://www.linkedin.com/in/franck-michaud-b60791179/)  
-[Indeed](https://my.indeed.com/p/franckm-fz3kyiq)  
-[CV](http://frmi.free.fr/perso/CV-FRANCK-MICHAUD.pdf)   
+[Indeed](https://my.indeed.com/p/g73hfz7)  
+[CV](http://frmi.free.fr/perso/integrateur.pdf)  
 [Stack Overflow](https://stackoverflow.com/users/16643299/franck-michaud)
 
 ## Ma formation
