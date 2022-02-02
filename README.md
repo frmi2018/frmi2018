@@ -98,7 +98,7 @@ N'hésitez pas à me solliciter pour des projets ou si vous avez une opportunit�
 
 [LinkedIn](https://www.linkedin.com/in/franck-michaud-b60791179/)  
 [Indeed](https://my.indeed.com/p/g73hfz7)  
-[CV](http://frmi.free.fr/perso/integrateur.pdf)  
+[CV](http://frmi.free.fr/perso/franck.michaud.cv.pdf)  
 [Stack Overflow](https://stackoverflow.com/users/16643299/franck-michaud)
 
 ## Ma formation
