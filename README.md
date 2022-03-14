@@ -43,7 +43,8 @@ N'hésitez pas à me solliciter pour des projets ou si vous avez une opportunit�
 • Développer avec les langages : HTML / CSS et Javascript  
 • Utiliser un gestionnaire de code source : Git  
 • Utiliser un gestionnaire de package : npm ou yarn  
-• Créer des requêtes vers une API ou BDD ( Axios / Express / MongoDB )  
+• Créer une API avec Node.js (express)  
+• Créer des requêtes vers une API ou BDD ( Axios / fetch / MongoDB / firebase )  
 • Utiliser un Framework CSS ( bootstrap / ant design )    
 • Utiliser des outils de communication : Slack / Team / Discord / Zoom  
 • Utiliser certains services AWS (authentification SES, stockage S3)
@@ -60,21 +61,21 @@ N'hésitez pas à me solliciter pour des projets ou si vous avez une opportunit�
 • TypeScript  
 • Web Design, UI/UX, Figma  
 • SEO / Google Analytics / RGPD  
+• Jest [infos](https://jestjs.io/docs/getting-started)  
 
 😉 J'ai testé :
 
 • Framework Expo (mobile)  
 • VuesJS  
-• Wordpress
+• Wordpress / wix
 
 😅 To-do-list :  
 
-<img src="https://pbs.twimg.com/profile_images/821713465245102080/mMtKIMax_400x400.jpg" width="20" height="20"> Jest [infos](https://jestjs.io/docs/getting-started)  
-<img src="https://raw.githubusercontent.com/testing-library/react-testing-library/main/other/goat.png" width="20" height="20"> React Testing Library [infos](https://testing-library.com/docs/react-testing-library/intro/)  
-<img src="https://raw.githubusercontent.com/jsdom/jsdom/master/logo.svg" width="auto" height="20"> jsdom [infos](https://github.com/jsdom/jsdom)  
-<img src="https://www.cypress.io/static/33498b5f95008093f5f94467c61d20ab/59c46/cypress-logo.webp" width="auto" height="20"> [infos](https://www.cypress.io/)  
-<img src="https://avatars.githubusercontent.com/u/17545810?s=88&v=4" width="auto" height="20"> [infos](https://github.com/nock/nock)  
-<img src="https://avatars.githubusercontent.com/u/64637271?s=200&v=4" width="auto" height="20"> MSW [infos](https://mswjs.io/)
+• React Testing Library [infos](https://testing-library.com/docs/react-testing-library/intro/)  
+• jsdom [infos](https://github.com/jsdom/jsdom)  
+• Cypress [infos](https://www.cypress.io/)  
+• Nock [infos](https://github.com/nock/nock)  
+• MSW [infos](https://mswjs.io/)
 
 ## Projets React
 
@@ -85,8 +86,6 @@ N'hésitez pas à me solliciter pour des projets ou si vous avez une opportunit�
 [<img src="assets/logos/vue.png"  width="100" height=auto>](https://github.com/frmi2018/vuejs)
 
 ## Projets en ligne
-
-[<img src="https://github.com/frmi2018/react/blob/main/front/react-vitrine/vitrine.jpg" width="360" height=auto>](https://www.02.michaudfranck.ovh/)
 
 [<img src="assets/img/vinted.png" width="360" height=auto>](https://vinted-frmi.netlify.app/)
 
