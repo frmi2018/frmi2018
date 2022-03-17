@@ -16,6 +16,7 @@ N'hésitez pas à me solliciter pour des projets ou si vous avez une opportunit�
 ## Contact
 
 📧 [E-Mail](mailto:frmi2018@gmail.com)
+🌐 [Portfolio](https://frmi2018.wixsite.com/website)
 
 ## Mes technologies
 
