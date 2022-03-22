@@ -17,20 +17,15 @@ N'hésitez pas à me solliciter pour des projets ou si vous avez une opportunit�
 
 📧 [E-Mail](mailto:frmi2018@gmail.com)
 🌐 [Portfolio](https://frmi2018.wixsite.com/website)
+🌐 [LinkedIn](https://www.linkedin.com/in/franck-michaud-b60791179/)
+🌐 [Indeed](https://my.indeed.com/p/g73hfz7)
+🌐 [Stack Overflow](https://stackoverflow.com/users/16643299/franck-michaud)
+📑 [CV](http://frmi.free.fr/perso/franck.michaud.cv.pdf)
 
 ## Mes technologies
 
-<img src="assets/logos/mongodb.png" width="20" height=20> MongoDB  
-<img src="assets/logos/express.png" width="20" height="20"> Express  
-<img src="assets/logos/react.png" width="20" height="20"> React  
-<img src="assets/logos/node.png" width="20" height="20"> Node.js  
-<img src="assets/logos/html.png" height="20"> HTML5  
-<img src="assets/logos/css.png" width="20" height="20"> CSS3  
-<img src="assets/logos/js.png" width="20" height="20"> Javascript  
-<img src="assets/logos/git.png" width="20" height=20> Git  
-<img src="assets/logos/github.png" width="20" height=20> Github  
-<img src="assets/logos/netlify.png" width="20" height=20> Déploiement Netlify (front)  
-<img src="assets/logos/heroku.png" width="20" height=20> Déploiement Heroku (back)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="80" height="80"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="80" height="80"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="80" height="80"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="80" height="80"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="80" height="80"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="80" height="80"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="80" height="80"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="80" height="80"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="80" height="80"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="80" height="80"/><img src="assets/logos/netlify.png" width="80" height="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" width="80" height="80"/>
 
 ## Mes compétences
 
@@ -80,11 +75,11 @@ N'hésitez pas à me solliciter pour des projets ou si vous avez une opportunit�
 
 ## Projets React
 
-[<img src="assets/logos/react.png"  width="100" height=auto>](https://github.com/frmi2018/react)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="100" height=auto/>](https://github.com/frmi2018/react)
 
 ## Projets Vues
 
-[<img src="assets/logos/vue.png"  width="100" height=auto>](https://github.com/frmi2018/vuejs)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="100" height=auto/>](https://github.com/frmi2018/vuejs)
 
 ## Projets en ligne
 
@@ -94,13 +89,8 @@ N'hésitez pas à me solliciter pour des projets ou si vous avez une opportunit�
 
 [<img src="https://raw.githubusercontent.com/frmi2018/frmi-marvel-api/main/src/assets/images/marvel.png" width="360" height=auto>](https://frmi-marvel-api.netlify.app/)
 
-## Liens
-
-[LinkedIn](https://www.linkedin.com/in/franck-michaud-b60791179/)  
-[Indeed](https://my.indeed.com/p/g73hfz7)  
-[CV](http://frmi.free.fr/perso/franck.michaud.cv.pdf)  
-[Stack Overflow](https://stackoverflow.com/users/16643299/franck-michaud)
-
 ## Ma formation
 
 https://github.com/frmi2018/frmi2018/blob/main/Formation.md
+
+#GH-DARK-MODE-ONLY
