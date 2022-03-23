@@ -2,9 +2,26 @@
 
 Les nouvelles technologies et l’univers du web ont toujours attirées ma curiosité.
 
-Simple Hobby pratiqué en parallèle de mon métier de technicien en base de données et de dessinateur industriel, j'ai profité d'un Plan de Sauvegarde de l'Emploi d'un an pour acquérir au fil des jours de l'expérience en développement front-end (React), back-end (Nodejs) et mobile.
+Simple Hobby pratiqué en parallèle de mon métier de technicien en base de données et de dessinateur industriel, j'ai profité d'un Plan de Sauvegarde de l'Emploi d'un an pour acquérir au fil des jours de l'expérience en développement front-end (React) et back-end (Nodejs).
 
-J'ai pu développer jusqu'à présent diverses compétences en suivant une formation bootcamp de 3 mois, des cours e-learning et en pratiquant quotidiennement.
+J'ai développé jusqu'à présent diverses compétences en suivant une formation bootcamp de 3 mois, des cours e-learning et en réalisant divers projets personnels ou tutoriaux.
+
+* Site vitrine : https://github.com/frmi2018/react/tree/main/front/react-vitrine
+* Blog : https://github.com/frmi2018/react/tree/main/front/racoont
+* Plateform de formation : https://github.com/frmi2018/react/tree/main/front/monkey
+* Boutique en ligne : https://github.com/frmi2018/ecommerce-frmi-api
+* Marché en ligne communautaire : https://github.com/frmi2018/vinted-frmi [🌐](https://vinted-frmi.netlify.app/)
+* Portfolio : https://github.com/frmi2018/portfolio
+* Site de jeux vidéo : https://github.com/frmi2018/react/tree/main/front/gamepad [🌐](https://frmi-gamepad.netlify.app/)  
+* Site d'informations : https://github.com/frmi2018/react/tree/main/front/marvel [🌐](https://frmi-marvel-api.netlify.app/)  
+
+## Projets React
+
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="100" height=auto/>](https://github.com/frmi2018/react)
+
+## Projets Vues
+
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="100" height=auto/>](https://github.com/frmi2018/vuejs)
 
 N'hésitez pas à me solliciter pour des projets ou si vous avez une opportunité qui me permettrait d'avoir une première expérience professionnelle dans l'un de ces métiers :
 
@@ -74,25 +91,3 @@ N'hésitez pas à me solliciter pour des projets ou si vous avez une opportunit�
 • Cypress [infos](https://www.cypress.io/)  
 • Nock [infos](https://github.com/nock/nock)  
 • MSW [infos](https://mswjs.io/)
-
-## Projets React
-
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="100" height=auto/>](https://github.com/frmi2018/react)
-
-## Projets Vues
-
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="100" height=auto/>](https://github.com/frmi2018/vuejs)
-
-## Projets en ligne
-
-[<img src="assets/img/vinted.png" width="360" height=auto>](https://vinted-frmi.netlify.app/)
-
-[<img src="https://raw.githubusercontent.com/frmi2018/gamepad/main/screen.png" width="360" height=auto>](https://frmi-gamepad.netlify.app/)
-
-[<img src="https://raw.githubusercontent.com/frmi2018/frmi-marvel-api/main/src/assets/images/marvel.png" width="360" height=auto>](https://frmi-marvel-api.netlify.app/)
-
-## Ma formation
-
-https://github.com/frmi2018/frmi2018/blob/main/Formation.md
-
-#GH-DARK-MODE-ONLY
