@@ -6,14 +6,14 @@ Simple Hobby pratiqué en parallèle de mon métier de technicien en base de don
 
 J'ai développé jusqu'à présent diverses compétences en suivant une formation bootcamp de 3 mois, des cours e-learning et en réalisant divers projets personnels ou tutoriaux.
 
-* Site vitrine : https://github.com/frmi2018/react/tree/main/front/react-vitrine
-* Blog : https://github.com/frmi2018/react/tree/main/front/racoont
-* Plateform de formation : https://github.com/frmi2018/react/tree/main/front/monkey
-* Boutique en ligne : https://github.com/frmi2018/ecommerce-frmi-api
-* Marché en ligne communautaire : https://github.com/frmi2018/vinted-frmi [🌐](https://vinted-frmi.netlify.app/)
-* Portfolio : https://github.com/frmi2018/portfolio
-* Site de jeux vidéo : https://github.com/frmi2018/react/tree/main/front/gamepad [🌐](https://frmi-gamepad.netlify.app/)  
-* Site d'informations : https://github.com/frmi2018/react/tree/main/front/marvel [🌐](https://frmi-marvel-api.netlify.app/)  
+[<img src="https://cdn-icons-png.flaticon.com/512/733/733609.png" width="20" height="20"/>](https://github.com/frmi2018/react/tree/main/front/react-vitrine) Site vitrine  
+[<img src="https://cdn-icons-png.flaticon.com/512/733/733609.png" width="20" height="20"/>](https://github.com/frmi2018/react/tree/main/front/racoont) Blog  
+[<img src="https://cdn-icons-png.flaticon.com/512/733/733609.png" width="20" height="20"/>](https://github.com/frmi2018/react/tree/main/front/monkey) Plateform de formation  
+[<img src="https://cdn-icons-png.flaticon.com/512/733/733609.png" width="20" height="20"/>](https://github.com/frmi2018/ecommerce-frmi-api) Boutique en ligne  
+[<img src="https://cdn-icons-png.flaticon.com/512/733/733609.png" width="20" height="20"/>](https://github.com/frmi2018/vinted-frmi) [<img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" width="20" height="20"/>](https://vinted-frmi.netlify.app/) Marché en ligne communautaire  
+[<img src="https://cdn-icons-png.flaticon.com/512/733/733609.png" width="20" height="20"/>](https://github.com/frmi2018/portfolio) Portfolio  
+[<img src="https://cdn-icons-png.flaticon.com/512/733/733609.png" width="20" height="20"/>](https://github.com/frmi2018/react/tree/main/front/gamepad) [<img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" width="20" height="20"/>](https://frmi-gamepad.netlify.app/) Site de jeux vidéo  
+[<img src="https://cdn-icons-png.flaticon.com/512/733/733609.png" width="20" height="20"/>](https://github.com/frmi2018/react/tree/main/front/marvel) [<img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" width="20" height="20"/>](https://frmi-marvel-api.netlify.app/) Site d'informations
 
 ## Projets React
 
@@ -32,12 +32,13 @@ N'hésitez pas à me solliciter pour des projets ou si vous avez une opportunit�
 
 ## Contact
 
-📧 [E-Mail](mailto:frmi2018@gmail.com)
-🌐 [Portfolio](https://frmi2018.wixsite.com/website)
-🌐 [LinkedIn](https://www.linkedin.com/in/franck-michaud-b60791179/)
-🌐 [Indeed](https://my.indeed.com/p/g73hfz7)
-🌐 [Stack Overflow](https://stackoverflow.com/users/16643299/franck-michaud)
-📑 [CV](http://frmi.free.fr/perso/franck.michaud.cv.pdf)
+[<img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" width="80" height="80"/>](mailto:frmi2018@gmail.com)
+[<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="80" height="80"/>](https://www.linkedin.com/in/franck-michaud/)
+[<img src="https://cdn-icons-png.flaticon.com/512/5968/5968770.png" width="80" height="80"/>](https://frmi2018.wixsite.com/website)
+[<img src="https://cdn-icons-png.flaticon.com/512/1384/1384046.png" width="80" height="80"/>](https://my.indeed.com/p/g73hfz7)
+[<img src="https://cdn-icons-png.flaticon.com/512/2111/2111615.png" width="80" height="80"/>](https://stackoverflow.com/users/16643299/franck-michaud)
+[<img src="https://cdn-icons-png.flaticon.com/512/3135/3135686.png" width="80" height="80"/>](http://frmi.free.fr/perso/franck.michaud.cv.pdf)
+
 
 ## Mes technologies
 
