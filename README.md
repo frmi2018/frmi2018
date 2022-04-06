@@ -35,7 +35,6 @@ N'hésitez pas à me solliciter pour des projets ou si vous avez une opportunit�
 [<img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" width="80" height="80"/>](mailto:frmi2018@gmail.com)
 [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="80" height="80"/>](https://www.linkedin.com/in/franckmichaud/)
 [<img src="https://cdn-icons-png.flaticon.com/512/5968/5968770.png" width="80" height="80"/>](https://frmi2018.wixsite.com/website)
-[<img src="https://cdn-icons-png.flaticon.com/512/1384/1384046.png" width="80" height="80"/>](https://my.indeed.com/p/g73hfz7)
 [<img src="https://cdn-icons-png.flaticon.com/512/2111/2111615.png" width="80" height="80"/>](https://stackoverflow.com/users/16643299/franck-michaud)
 [<img src="https://cdn-icons-png.flaticon.com/512/3135/3135686.png" width="80" height="80"/>](http://frmi.free.fr/perso/franck.michaud.cv.pdf)
 
