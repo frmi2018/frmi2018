@@ -10,10 +10,10 @@ J'ai développé jusqu'à présent diverses compétences en suivant une formatio
 [<img src="https://cdn-icons-png.flaticon.com/512/733/733609.png" width="20" height="20"/>](https://github.com/frmi2018/react/tree/main/front/racoont) Blog  
 [<img src="https://cdn-icons-png.flaticon.com/512/733/733609.png" width="20" height="20"/>](https://github.com/frmi2018/react/tree/main/front/monkey) Plateform de formation  
 [<img src="https://cdn-icons-png.flaticon.com/512/733/733609.png" width="20" height="20"/>](https://github.com/frmi2018/ecommerce-frmi-api) Boutique en ligne  
-[<img src="https://cdn-icons-png.flaticon.com/512/733/733609.png" width="20" height="20"/>](https://github.com/frmi2018/vinted-frmi) [<img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" width="20" height="20"/>](https://vinted-frmi.netlify.app/) Marché en ligne communautaire  
+[<img src="https://cdn-icons-png.flaticon.com/512/733/733609.png" width="20" height="20"/>](https://github.com/frmi2018/vinted-frmi) Marché en ligne communautaire  
 [<img src="https://cdn-icons-png.flaticon.com/512/733/733609.png" width="20" height="20"/>](https://github.com/frmi2018/portfolio) Portfolio  
-[<img src="https://cdn-icons-png.flaticon.com/512/733/733609.png" width="20" height="20"/>](https://github.com/frmi2018/react/tree/main/front/gamepad) [<img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" width="20" height="20"/>](https://frmi-gamepad.netlify.app/) Site de jeux vidéo  
-[<img src="https://cdn-icons-png.flaticon.com/512/733/733609.png" width="20" height="20"/>](https://github.com/frmi2018/react/tree/main/front/marvel) [<img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" width="20" height="20"/>](https://frmi-marvel-api.netlify.app/) Site d'informations
+[<img src="https://cdn-icons-png.flaticon.com/512/733/733609.png" width="20" height="20"/>](https://github.com/frmi2018/react/tree/main/front/gamepad) Site de jeux vidéo  
+[<img src="https://cdn-icons-png.flaticon.com/512/733/733609.png" width="20" height="20"/>](https://github.com/frmi2018/react/tree/main/front/marvel) Marvel
 
 ## Projets React
 
