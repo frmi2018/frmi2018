@@ -12,7 +12,7 @@ Mon principal projet est l'adaptation en ligne du jeu Warlords : Saga of the Sto
 
 ## Projet React
 
-<img src="https://github.com/frmi2018/warlord-online/blob/main/public/images/WL-Logo.webp"/>
+<img src="https://github.com/frmi2018/warlord-online/blob/main/public/images/WL-Logo.jpg"/>
 
 🔗 **Jouer en ligne** : [warlord-online.vercel.app](https://warlord-online.vercel.app/)
 
