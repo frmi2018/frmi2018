@@ -31,7 +31,7 @@ Mon principal projet est l'adaptation en ligne du jeu Warlords : Saga of the Sto
 
 <p align="center">
   🔗 <strong>Jouer en ligne</strong> :  
-  <a href="https://warlord-online.vercel.app/">warlord-online.vercel.app</a>
+  <a href="https://frmi-lab.vercel.app/">Go</a>
 </p>
 
 ## 📫 Contact
