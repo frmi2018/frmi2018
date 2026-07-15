@@ -4,7 +4,7 @@ Les nouvelles technologies et l’univers du web ont toujours attirées ma curio
 
 Simple hobby pratiqué en parallèle de mon métier de technicien en base de données et de dessinateur industriel, je développe durant mon temps libre divers projets pour le plaisir.
 
-Mon principal projet est l'adaptation en ligne du jeu Warlords : Saga of the Storm.
+Mon principal projet est une tentative d'adaptation en ligne du jeu Warlords : Saga of the Storm.
 
 ## 🚀 Mes technologies
 
@@ -30,8 +30,7 @@ Mon principal projet est l'adaptation en ligne du jeu Warlords : Saga of the Sto
 </div>
 
 <p align="center">
-  🔗 <strong>Jouer en ligne</strong> :  
-  <a href="https://frmi-lab.vercel.app/">Go</a>
+  <a href="https://frmi-lab.vercel.app/">Voir proto en ligne</a>
 </p>
 
 ## 📫 Contact
