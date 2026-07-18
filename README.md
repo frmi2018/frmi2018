@@ -4,7 +4,6 @@ Les nouvelles technologies et l’univers du web ont toujours attirées ma curio
 
 Simple hobby pratiqué en parallèle de mon métier de technicien en base de données et de dessinateur industriel, je développe durant mon temps libre divers projets pour le plaisir.
 
-Mon principal projet est une tentative d'adaptation en ligne du jeu Warlords : Saga of the Storm.
 
 ## 🚀 Mes technologies
 
@@ -16,11 +15,7 @@ Mon principal projet est une tentative d'adaptation en ligne du jeu Warlords : S
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="80" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="80" />
   <img src="https://humancoders-formations.s3.eu-west-1.amazonaws.com/uploads/course/logo/3483/formation-storybook.png" width="80" />
-  <img src="https://img.jsdelivr.com/raw.githubusercontent.com/mermaid-js/mermaid/develop/docs/public/favicon.svg" width="80" />
-
-
-
-  
+  <img src="https://img.jsdelivr.com/raw.githubusercontent.com/mermaid-js/mermaid/develop/docs/public/favicon.svg" width="80" />  
 </div>
 
 ## 🎮 Projet React
